@@ -21,3 +21,11 @@
 4. Una vez que termines cada homework, súbela a tu repositorio `Curso.Prep.Henry`, con los comandos que ya aprendiste a usar en la primera lección de git.
 
 ### Aca tendras acceso a las [Soluciones](https://github.com/atralice/Curso.Prep.Henry/blob/solution/02-JS-I/homework/homework.js)
+
+
+variables: son una forma de guardar datos para usarlos mas tarde
+strings: son bloques de texto que van serrados entre comillas 
+funciones: son una parte muy importante del lenguaje de programacion
+declaraciones: es donde se afirma una informacion
+valores booleanos: son aquellos que te informan si es verdad o falso
+
