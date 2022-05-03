@@ -21,7 +21,7 @@ function mayoriaDeEdad(edad) {
   else {
     return "Not allowed";
   }
-}
+}   
 
   
 function conection(status) {
@@ -86,15 +86,16 @@ function esDiezOCinco(numero) {
   // Devuelve "true" si "numero" es 10 o 5
   // De lo contrario, devuelve "false"
   // Tu código:
-  return numero === 10 || numero === 5;
-}
+     return numero === 10 || numero === 5;  
+     
+     }
 
 function estaEnRango(numero) {
   // Devuelve "true" si "numero" es menor que 50 y mayor que 20
   // De lo contrario, devuelve "false"
   // Tu código:
-  return numero < 50 && numero > 20;
-}
+     return numero < 50 && numero > 20;
+     }
 
 function esEntero(numero) {
   // Devuelve "true" si "numero" es un entero (int/integer)
@@ -104,8 +105,8 @@ function esEntero(numero) {
   // De lo contrario, devuelve "false"
   // Pista: Puedes resolver esto usando `Math.floor`
   // Tu código:
-  return numero % 1 === 0;
-}
+     return numero % 1 === 0;
+     }
 
 function fizzBuzz(numero) {
   // Si "numero" es divisible entre 3, devuelve "fizz"
