@@ -180,8 +180,6 @@ function todosIguales(arreglo) {
   }
   return true;
 } 
-
-
 function mesesDelAño(array) {
   //Dado un array que contiene algunos meses del año desordenados, recorrer el array buscando los meses de 
   // "Enero", "Marzo" y "Noviembre", guardarlo en nuevo array y retornarlo.
@@ -199,10 +197,7 @@ function mesesDelAño(array) {
   else {
       return nuevoArray;
   }
- 
 }
-
-
 function mayorACien(array) {
   //La función recibe un array con enteros entre 0 y 200. Recorrer el array y guardar en un nuevo array sólo los
   //valores mayores a 100 (no incluye el 100). Finalmente devolver el nuevo array.
