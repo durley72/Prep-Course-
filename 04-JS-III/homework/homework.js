@@ -242,7 +242,7 @@ function breakStatement(numero) {
       return array;
   }
 }
-
+                                                                                    
 
 function continueStatement(numero) {
   //Iterar en un bucle aumentando en 2 el numero recibido hasta un límite de 10 veces.
@@ -261,7 +261,6 @@ function continueStatement(numero) {
     }
   }
   return array;
-
 }
 
 
