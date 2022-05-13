@@ -21,7 +21,7 @@ function mayoriaDeEdad(edad) {
   else {
     return "Not allowed";
   }
-}   
+}        
 
   
 function conection(status) {
