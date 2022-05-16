@@ -1,4 +1,4 @@
-que es un array
+que es un archivo
 
 array es una coleccion de datos,  es una lista de diferentes variables,
-tambien una lista de lista
+tambien una lista de lista ............
