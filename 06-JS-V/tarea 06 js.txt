@@ -1,0 +1,8 @@
+tarea 06 js
+ prototype:
+ es donde se guardan los datos de una clase para ocupar menos memoria en una pc
+
+ constructor de clases: 
+ es una herramienta que usamos para que las planillas no sean   tan repetitivas un objeto
+las clases comparten gran parte de la misma funcionalidad que los objetos 
+en pocas palabras abrevian los objetos.
